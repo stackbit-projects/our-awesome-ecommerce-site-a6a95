@@ -47,7 +47,7 @@ export default class Post extends React.Component {
         </div>
     ))}
     <div>
-<a href={`https://picsoung.typeform.com/to/f5BloeAK#product_name=${props.pageContext.frontmatter.title}`}">Leave a review</a>
+<a href={`https://picsoung.typeform.com/to/f5BloeAK#product_name=${props.pageContext.frontmatter.title}`}>Leave a review</a>
  </div>      
 </div>
 
