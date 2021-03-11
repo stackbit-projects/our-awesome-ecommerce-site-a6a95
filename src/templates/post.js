@@ -48,7 +48,7 @@ export default class Post extends React.Component {
     ))}
 </div>
 
-<a hrefhttps://picsoung.typeform.com/to/f5BloeAK#product_name=xxxxx
+<a href="https://picsoung.typeform.com/to/f5BloeAK#product_name=xxxxx
             </Layout>
         );
     }
