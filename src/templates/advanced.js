@@ -26,7 +26,6 @@ export default class Advanced extends React.Component {
                     )
                 })}
 
-                test
             </Layout>
         );
     }
