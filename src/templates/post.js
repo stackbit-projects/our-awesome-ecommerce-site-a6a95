@@ -50,6 +50,8 @@ export default class Post extends React.Component {
 
 <div>
 <a href="https://picsoung.typeform.com/to/f5BloeAK#product_name=xxxxx">Leave a review</a>
+           
+           
             </Layout>
         );
     }
