@@ -46,11 +46,12 @@ export default class Post extends React.Component {
         	<p>{message}</p>
         </div>
     ))}
+    <div>
+<a href="https://picsoung.typeform.com/to/f5BloeAK#product_name=xxxxx">Leave a review</a>
+ </div>      
 </div>
 
-<div>
-<a href="https://picsoung.typeform.com/to/f5BloeAK#product_name=xxxxx">Leave a review</a>
- </div>          
+    
            
             </Layout>
         );
